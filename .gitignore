@@ -102,4 +102,4 @@ WebDev/
 
 .DS_Store
 *.sqlite3
-media/
+#media/
