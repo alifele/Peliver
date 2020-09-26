@@ -1,6 +1,6 @@
 # Peliver
 
-
+![Peliver](https://github.com/alifele/Peliver/raw/master/pics/logo.png  "Peliver")
 ## Running the Project Locally
 
 First, clone the repository to your local machine:
